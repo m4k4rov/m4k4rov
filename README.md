@@ -1,3 +1,2 @@
 👋 Hi, I’m @m4k4rov ✨
-``` css
-Learn JS, HTML, CSS...
+
